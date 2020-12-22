@@ -4,7 +4,7 @@ fsd
 fsd
 f
 # ========================NEXUS==============================
-# =========== Shraddha Athawale ==========================
+# =========== Shraddha Athawale =============================
 
 <distributionManagement>
 	<repository>
